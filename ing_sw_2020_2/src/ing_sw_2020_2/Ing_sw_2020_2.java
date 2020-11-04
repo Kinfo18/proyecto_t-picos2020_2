@@ -19,6 +19,7 @@ public class Ing_sw_2020_2 {
         
         System.out.println("Bienvenidos");
         System.out.println("Tópicos de Ingeniería del Software");
+        System.out.println("Mi nombre es David Figueredo");
         
     }
     
